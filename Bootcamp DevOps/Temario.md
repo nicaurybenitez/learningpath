@@ -9,17 +9,37 @@
 * Que conozcan los principales proveedores de nube, AWS y Azure, para la utilización y despliegue de aplicaciones basadas en Kubernetes.
 
 1. Fundamentos de Linux  & Networking
-2. Fundamentos de Programación  y SCM
+2. Introducción a la metodología Agile
+3. Fundamentos de Programación  y SCM
     1. Git
     2. Python
     3. Groovy
-    4. Bash
-3. Fundamentos de Contenedores
-4. Orquestación de Contenedores
-5. Fundamentos de automatización
+    4. Go
+    5. Bash
+4. Fundamentos de Contenedores
+5. Fundamentos de SQL y noSQL
+6. Orquestación de Contenedores
+7. Fundamentos de automatización
     1. Ansible
     2. Terraform
-6. Fundamentos CI/CD
-7. Logs y Métricas
-8. Observabilidad
-9. Proveedores de Cloud
+8. Fundamentos CI/CD
+9. Logs y Métricas
+10. Observabilidad
+11. Proveedores de Cloud
+12. Tools and Stack
+    1. Helm
+    2. Kustomize
+    3. Istio
+    4. Traefik
+    5. Ingress
+    6. Vault
+    7. containerd
+    8. CoreDNS
+    9. Envoy
+    10. Fluentd
+    11. Harbor
+    12. Jaeger
+    13. Prometheus
+    14. TiKV
+    15. The Update Framework (TUF) 
+    16. Vitess
