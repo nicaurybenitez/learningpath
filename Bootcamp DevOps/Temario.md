@@ -26,6 +26,11 @@
 9. Logs y Métricas
 10. Observabilidad
 11. Proveedores de Cloud
+    1. Azure
+    2. AWS
+    3. Google Cloud
+    4. Alibaba
+    5. Linode
 12. Tools and Stack
     1. Helm
     2. Kustomize
